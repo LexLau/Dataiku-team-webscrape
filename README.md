@@ -3,7 +3,7 @@
 > Author: Alex Lau
 
 <img src="./images/team-1920x296.jpg" width="800px">
-![](images/team-1920x296.jpg)
+![](./images/team-1920x296.jpg)
 
 ## Table of Contents
 - [Problem Statement](#Problem-Statement)
