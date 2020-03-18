@@ -23,3 +23,4 @@ We believe we have found errors on the website for the team. We identified 1 emp
 
 ## Source
 - [Dataiku Team](https://www.dataiku.com/company/team/)
+- [Team Photo](https://www.dataiku.com/wp-content/uploads/2019/11/team-1920x296.jpg)
