@@ -2,6 +2,8 @@
 
 > Author: Alex Lau
 
+<img src="./images/team-1920x296.jpg"> 
+
 ## Table of Contents
 - [Problem Statement](#Problem-Statement)
 - [Executive Summary](#Executive-Summary)
@@ -18,3 +20,6 @@ While exploring the data, we found 376 names, 362 of them unique and also 170 un
 
 ## Conclusion
 We believe we have found errors on the website for the team. We identified 1 employee, who does not have a role assigned, even though we found them on Linkedin with a role. We also identified 12 employees who have their records duplicated, with one of their photos as a zoomed in version of the other. In some cases, the first instance is zoomed in, in others it is the second instance. We recommend updating the site to ensure all roles are populated, and duplicate records removed, although which to remove is up to Dataiku, as all photos look beautiful.
+
+## Source
+- [Dataiku Team](https://www.dataiku.com/company/team/)
