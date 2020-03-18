@@ -2,7 +2,7 @@
 
 > Author: Alex Lau
 
-<img src="images/team-1920x296.jpg" width="800px">
+<img src="https://www.dataiku.com/wp-content/uploads/2019/11/team-1920x296.jpg" width="800px">
 
 ## Table of Contents
 - [Problem Statement](#Problem-Statement)
