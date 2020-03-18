@@ -1,377 +1,377 @@
-,name,role,image
-0,Mathieu A.,<p>Partner Certification</p>,
-1,Charles B.,<p>Regional Director</p>,
-2,Joachim Z.,<p>R&amp;D Engineer</p>,
-3,Noha B.,<p>Data Scientist</p>,
-4,Jay M.,<p>Sales Director</p>,
-5,Mirko H.,<p>Business Development Specialist</p>,
-6,Emilie S.,<p>Research and Innovation Manager</p>,
-7,Steve.G,<p>Senior Account Executive</p>,
-8,Karim B.,<p>Industry Matter Expert</p>,
-9,Kyle A.,<p>Business Development Specialist</p>,
-10,Anaïs K.,<p>South Europe Marketing Associate</p>,
-11,Michael D.,<p>Partnerships Manager - East</p>,
-12,Mike K.,<p>Enterprise Customer Success Manager</p>,
-13,Julie O.,<p>Talent Acquisition Lead</p>,
-14,Matthew C.,<p>Account Executive</p>,
-15,Edward,<p>VP Finance</p>,
-16,Cooper J.,<p>Business Development Specialist</p>,
-17,Florent R.,<p>Account Executive</p>,
-18,Brian S.,<p>Customer Success Manager</p>,
-19,Nancy K.,<p>Content Marketing Junior</p>,
-20,Clay K.,<p>Account Executive</p>,
-21,Louis-Philippe K.,<p>VP Data Science</p>,
-22,Patrice B.,<p>VP Architecture</p>,
-23,Maxime LG.,<p>Customer Success Manager</p>,
-24,Lee T.,<p>Senior Sales Engineer</p>,
-25,Suresh V.,<p>Sales Engineer</p>,
-26,Beverly D.,<p>Customer Success Team Lead</p>,
-27,Will.N,<p>Data Scientist</p>,
-28,Alexander V.,<p>Data Analyst</p>,
-29,Thomas S.,<p>Research Scientist</p>,
-30,Christa.S,<p>Sales Engineer </p>,
-31,Salome S.,<p>Financial Operations Analyst</p>,
-32,Emily J.,<p>Recruiting Coordinator</p>,
-33,Sean C.,<p>Business Development Specialist</p>,
-34,Jean-Bernard J.,<p>Architect</p>,
-35,Jagroop G.,<p>Enterprise Customer Success Manager</p>,
-36,Sophie A.,<p>Business Development Specialist</p>,
-37,Adrien La.,<p>R&amp;D Engineer</p>,
-38,Fabien B.,<p>Lead Software Engineer</p>,
-39,Chris P.,<p>Business Development Specialist</p>,
-40,Terry O.,<p>Corporate Controller</p>,
-41,Lynn R.,<p>Business Development Specialist</p>,
-42,Mat E.,<p>Implementation Manager</p>,
-43,Jiunn H.,<p>Senior Channels Manager</p>,
-44,Kevin R.,<p>QA Engineer </p>,
-45,Luke T.,<p>Account Executive</p>,
-46,Christina H.,<p>Sales Engineer / Evangelist</p>,
-47,Luke C.,<p>Business Development Specialist</p>,
-48,Nicolas O.,<p>Product Manager</p>,
-49,Harizo R.,<p>R&amp;D Engineer</p>,
-50,Régis P.,<p>R&amp;D Engineer</p>,
-51,Estelle P.,<p>Graphic Design</p>,
-52,Andrew F.,<p>Account Executive</p>,
-53,Ruqaiya S.,<p>Sales Engineer</p>,
-54,Saida Y.,<p>Account Receivable Specialist</p>,
-55,Richard S.,<p>Sales Engineer</p>,
-56,Katherine C.,<p>HR Manager</p>,
-57,Deborah G.,<p>Senior Account Executive</p>,
-58,Jeffrey C.,<p>Enterprise Customer Success Manager</p>,
-59,Emilie C.,<p>Graphic Designer</p>,
-60,Adam J.,<p>Data Scientist</p>,
-61,Julian T.,<p>Business Development Specialist</p>,
-62,Sophie S.,<p>Senior Director Market Intelligence</p>,
-63,Benoit G.,<p>Sales Engineer</p>,
-64,Thomas C.,<p>Co-Founder &amp; Head of Technology Alliances</p>,
-65,Vincent H.,<p>Data Scientist</p>,
-66,Gilles D.,<p>Account Executive</p>,
-67,Camille G.,<p>Graphic Designer</p>,
-68,Paul H.,<p>Account Executive</p>,
-69,Leandra Z.,<p>Accounting Clerk</p>,
-70,Nadine S.,<p>Sales Engineer</p>,
-71,Albert A.,<p>Account Executive APAC</p>,
-72,Robert C.,<p>Revenue Accounting Manager</p>,
-73,Jessica M.,<p>Content Strategist</p>,
-74,Rayan H.,<p>Business Development Specialist</p>,
-75,Greg W.,<p>Partner Solutions Architect</p>,
-76,Joy S.,<p>Chief People Officer</p>,
-77,Clement B.,<p>QA Engineer</p>,
-78,Nicolas P.,<p>Business Development Specialist</p>,
-79,Jon L.,<p>Business Development Specialist</p>,
-80,Adrian T.,<p>Marketing Intern</p>,
-81,Omar.S,<p>Data Operations Engineer</p>,
-82,Bill M.,<p>Account Executive</p>,
-83,Ben H.,<p>Americas Technical Lead</p>,
-84,Mickaël H.,<p>R&amp;D Engineer</p>,
-85,Andrea S.,<p>Customer Success Manager</p>,
-86,Patrick M.,<p>Data Scientist</p>,
-87,Ina J.,<p>Marketing Enablement Specialist</p>,
-88,Mark T.,<p>Lead Product Manager</p>,
-89,Gonzalo B.,<p>Implementation Manager</p>,
-90,Kimberley C.,<p>Technical Support Engineer</p>,
-91,Anne-Sophie R.,<p>Account Executive</p>,
-92,Kyle M.,<p>Sales Development Representative</p>,
-93,Nicolas O.,<p>Account Based Marketing Junior</p>,
-94,Alex Hub.,<p>Data Scientist</p>,
-95,Mong-Tuyet N.,<p>Business Operations Strategist</p>,
-96,Deborah G.,<p>Senior Account Executive</p>,
-97,Reginald P.,<p>Financial Systems Manager</p>,
-98,Estelle C.,<p>Junior Marketing Specialist</p>,
-99,Frédéric C.,<p>Director or Marketing</p>,
-100,Pito N.,<p>Account Executive</p>,
-101,Gauthier S.,<p>Data Scientist</p>,
-102,Alexis S.,<p>Salesforce Administrator</p>,
-103,Baptiste C.,<p>Demand Generation and Digital Marketing Manager</p>,
-104,Wided B.,<p>Sales Engineer</p>,
-105,Hillorie F.,<p>Director of Alliances</p>,
-106,Kerri W.,<p>Senior Community Manager</p>,
-107,Chia Y.,<p>Sales Engineer</p>,
-108,Carly T.,<p>Partner Manager</p>,
-109,Delphine P.,<p>HR Administrator</p>,
-110,Clément S.,<p>Co-Founder &amp; CTO</p>,
-111,Ina J.,<p>Marketing Enablement Specialist</p>,
-112,Josh H.,<p>Director of Academics</p>,
-113,Matthieu S.,<p>Data Scientist</p>,
-114,Melissa .,<p>Product Manager</p>,
-115,Shelby R.,<p>Sales Development Representative</p>,
-116,Andrei A.,<p>R&amp;D Engineer</p>,
-117,Steven D.,<p>Account Executive</p>,
-118,Estelle B.,<p>Marketing Analyst</p>,
-119,Alexis L.,<p>Legal Counsel </p>,
-120,Patricia F.,<p>Account Executive</p>,
-121,Grant C.,<p>Sales Engineer</p>,
-122,Pierre M.,<p>Account Executive</p>,
-123,Frank K.,<p>Jr. Business Systems Administrator</p>,
-124,Samuel P.,<p>R&amp;D Engineer</p>,
-125,Laura W.P.,<p>Field Marketing Manager Germany</p>,
-126,Noel C.,<p>Marketing Associate</p>,
-127,Alexis F.,<p>Senior Sales Engineer</p>,
-128,Wideb B.,<p>Sales Engineer</p>,
-129,Chris E.,<p>Solutions Architect</p>,
-130,Maira S.,<p>Marketing Intern</p>,
-131,Michael E.,<p>Partner Solution Architect</p>,
-132,Taylor M.,<p>Demand Generation</p>,
-133,Rayan S.,<p>Talent Acquisition Specialist</p>,
-134,Ludovic P.,<p>R&amp;D Engineer</p>,
-135,Bart K.,<p>Sales Engineer</p>,
-136,Laura M.,<p>Office Manager New York </p>,
-137,Alex R.,<p>Data Science Content Manager</p>,
-138,Terry O.,<p>Corporate Controller</p>,
-139,Blanden C.,<p>Sales Engineer</p>,
-140,Mope A.,<p>Technical Writer</p>,
-141,Alexandre O.,<p>Customer Success Manager</p>,
-142,Emilie C.,<p>Talent Brand Ambassador</p>,
-143,Yashas V.,<p>Technical User Community Manager </p>,
-144,Gus C.,<p>Sales Engineer</p>,
-145,Marie T.,<p>Talent Acquisition Specialist</p>,
-146,Julia Gu.,<p>Partnership Marketing</p>,
-147,Conor J.,<p>Customer Success Team Lead</p>,
-148,Heena K.,<p>Business Development Specialist</p>,
-149,Nadim A.,<p>VP Sales</p>,
-150,Dara D.,"<p>Instructional Designer, Global Sales Enablement</p>",
-151,Sandray D.,<p>IT Technician</p>,
-152,Alivia S.,<p>Director Marketing Machine</p>,
-153,Pia B.,<p>Implementation Manager</p>,
-154,Louis B.,<p>Sales Development Representative</p>,
-155,Jennifer R.,<p>VP Strategic Advisory</p>,
-156,Gildas F.,<p>EMEA Academics Program Specialist</p>,
-157,Benoit J.,<p>Sales Development Representative</p>,
-158,Brian P.,<p>VP Customer Success</p>,
-159,Sarah R.,<p>UX Designer</p>,
-160,Rémi M.,<p>Account Executive</p>,
-161,Florian D.,<p>VP Sales DACH</p>,
-162,Anna A.,<p>Ecosystem Marketing Manager</p>,
-163,Arthur J.,<p>Business Development Specialist</p>,
-164,Dan T.,<p>Senior Account Executive</p>,
-165,Kenji L.,<p>VP Product</p>,
-166,Triveni G.,<p>Data Scientist</p>,
-167,Jerneeka S.,<p>Talent Acquisition Partner</p>,
-168,Thomas R.,<p>Sales Development Representative</p>,
-169,Gregory H.,<p>SVP Sales EMEA</p>,
-170,Mike M.,<p>Account Executive</p>,
-171,Makoto M.,<p>Data Scientist</p>,
-172,Guillaume F.,<p>Enterprise Customer Success Manager</p>,
-173,Lynn H.,<p>Marketing Content Director</p>,
-174,Dave J.,<p>Account Executive</p>,
-175,Andrew.T,<p>Technical Support Engineer</p>,
-176,Maxime.B,<p>Sales Development Representative</p>,
-177,Alex K.,<p>Data Ops AI Architect</p>,
-178,Vincent T.,<p>Business Developer Intern</p>,
-179,Sara V.,<p>Account Based Marketing Director EMEA</p>,
-180,Naglis A.,<p>Account Executive</p>,
-181,Michael Go.,<p>Talent Acquisition Lead</p>,
-182,Du P.,<p>R&amp;D Engineer</p>,
-183,Mathilde,<p>Office Manager Paris</p>,
-184,Katie G.,<p>Data Scientist</p>,
-185,Michaël Ga.,<p>Sales Engineer Architect</p>,
-186,Meriem.Z,<p>Customer Success Manager</p>,
-187,Gabrielle E.,<p>Lead Generation Manager </p>,
-188,Jean-Baptiste G.,<p>Art Director </p>,
-189,Malick K.,<p>Data Scientist</p>,
-190,Johnny O.,<p>Account Executive</p>,
-191,Maria.K,<p>Implementation Manager</p>,
-192,Pauline S.,<p>Sales Engineer</p>,
-193,Frédéric Ch.,<p>R&amp;D Engineer</p>,
-194,Leila N.,<p>Legal Counsel</p>,
-195,Nicolas S.,<p>R&amp;D Engineer</p>,
-196,Vincent S,<p>Sales Engineer</p>,
-197,Jean-Yves G.,<p>Data Scientist</p>,
-198,Greg C.,<p>Sales Engineer</p>,
-199,Alexandre Bo.,<p>R&amp;D Engineer</p>,
-200,Atossa V.,<p>Sales Enablement</p>,
-201,Tara C.,<p>Data Science Technical Writer</p>,
-202,Julie H.,<p>Director of User Advocacy</p>,
-203,Charlotte P.,<p>Office Manager Paris</p>,
-204,Dominique P.,<p>Implementation Director</p>,
-205,Louis B.,<p>Sales Development Representative</p>,
-206,Jed D.,<p>VP Field Engineering</p>,
-207,Guillaume H.,<p>Implementation Manager</p>,
-208,Pierre C.,<p>Partner Manager France</p>,
-209,Nicolas G.,<p>Partner Solutions Architect</p>,
-210,Steve F.,<p>Sales Engineer</p>,
-211,William L.,<p>R&amp;D Engineer</p>,
-212,Judith M.,<p>Talent Coordinator</p>,
-213,Alexandre A.,<p>Research Scientist</p>,
-214,Marc H.,<p>R&amp;D Engineer</p>,
-215,Rob R.,<p>VP Marketing</p>,
-216,Léo T.,<p>Data Scientist</p>,
-217,Joel B.,<p>Architect</p>,
-218,Joshua C.,<p>Data Scientist</p>,
-219,Sean H.,<p>Enterprise Customer Success Manager </p>,
-220,Alexandre L.,<p>Data Scientist Intern</p>,
-221,Magdalena L.,<p>Legal Intern</p>,
-222,Aurélien V.,<p>Implementation Manager</p>,
-223,John C.,<p>Account Executive</p>,
-224,Graham M.,<p>Account Executive</p>,
-225,Jeff C.,<p>Director of Partnerships</p>,
-226,Loris M.,<p>Data Analyst</p>,
-227,Samuel R.,<p>R&amp;D Engineer</p>,
-228,Richard J.,<p>VP Sales APAC</p>,
-229,Ned M.,<p>DSS Training Specialist</p>,
-230,Nicolas T.,<p>QA Engineer</p>,
-231,Mike B.,<p>VP Sales US West and Central</p>,
-232,Marie V.,<p>Sales Development Representative</p>,
-233,Ed Hopper,<p>Senior Account Executive</p>,
-234,Sunny G.,<p>Enterprise Customer Success Manager</p>,
-235,Sanae H.,<p>HR Administrator </p>,
-236,Alexandre C.,<p>Data Scientist</p>,
-237,Aurélien D.,<p>R&amp;D Engineer</p>,
-238,Sonia C.,<p>Mother</p>,
-239,Rocco S.,<p>Director of Marketing West Coast</p>,
-240,Sean M.,"<p>Sales Engineering Manager, US Central &amp; West</p>",
-241,Michaël G.,<p>Sales Engineer Architect</p>,
-242,Aimee C.,<p>Research Scientist</p>,
-243,Hugo S.,<p>Business Developer Data Science</p>,
-244,Christiaan B.,<p>Business Development Specialist</p>,
-245,Christian L.,<p>Sales Development Representative</p>,
-246,Jean-François G.,<p>Senior Account Executive</p>,
-247,Daniel H.,<p>Partner Manager DACH</p>,
-248,Julia G.,<p>Account Executive</p>,
-249,Astrid D.,<p>QA Engineer</p>,
-250,Eric C.,<p>Implementation Manager</p>,
-251,Amanda H.,<p>Partnerships Marketing Manager</p>,
-252,Julien M.,<p>Sales Engineering Manager</p>,
-253,Eloise G.,<p>Data Scientist</p>,
-254,Cameron S.,<p>Enterprise Customer Success Manager</p>,
-255,Ludovic B.,<p>Sales Engineer</p>,
-256,Alex G.,<p>Implementation Director</p>,
-257,Jay N.,<p>Data Scientist</p>,
-258,Kristen L,<p>Account Executive</p>,
-259,Hugo-Camille O.,<p>Customer Team Program Manager</p>,
-260,Michael K.,<p>Enterprise Customer Success Manager</p>,
-261,Jakub C.,<p>Analytics Team Lead</p>,
-262,Matt C.,<p>Account Executive</p>,
-263,Josh B.,<p>Account Executive</p>,
-264,Carole O.,<p>Chief Marketing Officer</p>,
-265,Francois U.,<p>Enterprise Customer Success Manager</p>,
-266,Félix S.,<p>Multimedia Designer</p>,
-267,Léo D.,<p>Data Scientist</p>,
-268,Marieme D.,<p>Enterprise Customer Success Manager</p>,
-269,Caroline M.,<p>Sales Development Representative</p>,
-270,Louis P.,<p>R&amp;D Engineer</p>,
-271,Florian,<p>Co-Founder &amp; CEO</p>,
-272,Dimitri L.,<p>Product Manager</p>,
-273,Adrien P.,<p>Customer Success Team Lead</p>,
-274,Sofiane F.,<p>Sales Engineer</p>,
-275,Larry O.,<p>Sales Engineer</p>,
-276,Lisa B.,<p>User Advocacy EMEA</p>,
-277,Dee Dee T.,<p>Sales Development Representative</p>,
-278,Saul L.,<p>Director of Inside Sales</p>,
-279,Kurt M.,<p>Chief Customer Officer</p>,
-280,Christiaan B.,<p>Business Development Specialist</p>,
-281,Antoine Q.,<p>R&amp;D Engineer</p>,
-282,Liam S.,<p>Business Development Specialist</p>,
-283,Claude P.,<p>Senior Product Manager</p>,
-284,Mike H.,<p>VP Partnerships</p>,
-285,Abby Z.,,
-286,Michael G.,<p>Community Manager</p>,
-287,Benjamin M.,<p>UX Designer</p>,
-288,Alex Hu,<p>Finance Manager</p>,
-289,Marcel B.,<p>Sales Engineer</p>,
-290,Manuel.T,<p>Customer Success Team Lead</p>,
-291,Sunny P.,<p>Product Communication Manager</p>,
-292,Clément B.,<p>Software Engineer in Test </p>,
-293,Dominik H.,<p>Senior Account Executive</p>,
-294,Virgil C.,<p>Business Development Specialist</p>,
-295,Hursh,<p>Account Executive</p>,
-296,Frank B.,<p>Alliance and Partnership Director</p>,
-297,Mitchell H.,<p>Implementation Manager</p>,
-298,Dana H.,<p>Sales Engineer</p>,
-299,Frédéric L.,<p>Account Executive</p>,
-300,Cooper J.,<p>Business Development Specialist</p>,
-301,Young S.,<p>Technical Support Engineer</p>,
-302,Max P.,<p>R&amp;D Engineer</p>,
-303,Vincent R.,<p>Territory Account Executive</p>,
-304,Ulysses D.,<p>Customer Success Manager</p>,
-305,Manuel N.,<p>Territory Account Executive</p>,
-306,JB N.,<p>Account Executive</p>,
-307,Jacob W.,<p>Account Executive</p>,
-308,Arnaud P.,<p>VP Engineering</p>,
-309,Sandra B.,<p>Enterprise Customer Success Manager</p>,
-310,Sean A.,<p>Technical Writer</p>,
-311,Jesse B.,<p>Sales Engineer</p>,
-312,Ryan M.,<p>Account Executive</p>,
-313,Pierre P.,<p>Data Scientist</p>,
-314,Narendra A.,<p>Data Ops AI Architect</p>,
-315,Paul-Henri H.,<p>Data Scientist</p>,
-316,Raj J.,<p>Senior Account Executive</p>,
-317,Alexandre D.,<p>Account Executive</p>,
-318,Denise S.,<p>Enterprise Customer Success Manager</p>,
-319,Simon S.,<p>Enterprise Customer Success Manager</p>,
-320,Ariane L.,<p>Legal Counsel</p>,
-321,Claire M.,<p>Competitive Intelligence Manager</p>,
-322,Mike M.,<p>Account Executive</p>,
-323,Arnaud B.,<p>IT Administrator</p>,
-324,Liev.G,<p>Data Scientist</p>,
-325,Frédéric T.,<p>R&amp;D Engineer</p>,
-326,Ben M.,<p>Sales Engineering Manager </p>,
-327,Farzana K.,<p>Business Development Specialist</p>,
-328,Lancelot C.,<p>R&amp;D Engineer</p>,
-329,Yannis G.,<p>Data Scientist</p>,
-330,Aashish M.,<p>Sales Engineer</p>,
-331,Michael Gr.,<p>Community Manager</p>,
-332,John H.,<p>Business Development Specialist</p>,
-333,Camille Gr.,<p>Learning Experience Manager</p>,
-334,Romain D.,<p>EMEA Marketing Director</p>,
-335,Celian H.,<p>R&amp;D Engineer</p>,
-336,Dan S.,<p>Lead Generation Manager </p>,
-337,Maïté L.,<p>Technical Recruiter</p>,
-338,Andres S.,<p>Enterprise Customer Success Manager</p>,
-339,Liam S.,<p>Business Development Specialist</p>,
-340,Marguerite,<p>Financial Accountant</p>,
-341,Agathe G.,<p>R&amp;D Engineer</p>,
-342,David D.,<p>R&amp;D Engineer</p>,
-343,Ashley W.,<p>Field Product Manager</p>,
-344,Sophie D.,<p>VP Strategy</p>,
-345,Vincent G.,<p>Customer Success Manager</p>,
-346,Mayeul R.,<p>Full Stack Engineer</p>,
-347,Christelle M.,<p>Account Executive</p>,
-348,Ben B.,<p>Customer Success Manager</p>,
-349,Clément B.,<p>Software Engineer</p>,
-350,Aurélien V.,<p>Implementation Manager</p>,
-351,Greta N.,<p>Technical Alliance Manager</p>,
-352,Ndip A.,<p>Sales Development Manager</p>,
-353,Hsu-Liang L.,<p>Account Executive</p>,
-354,Nate.F,<p>Account Executive</p>,
-355,Ned M.,<p>DSS Training Specialist</p>,
-356,Divya T.,<p>Product Manager</p>,
-357,Christopher W.,<p>Senior Product Marketing Manager</p>,
-358,Julie N.,<p>Financial Analyst</p>,
-359,Alexandre B.,<p>Customer Success Manager</p>,
-360,Hylke V.,<p>Sales Director Netherlands </p>,
-361,Daniel S.,<p>VP Legal</p>,
-362,Hadrien S.,<p>Enterprise Customer Success Manager</p>,
-363,Kyle A.,<p>Business Development Specialist</p>,
-364,Kevin G.,<p>Account Executive</p>,
-365,Hugo L.,<p>Sales Executive</p>,
-366,Michael J.,<p>Canada Country Manager</p>,
-367,Kasim P.,<p>Growth Scientist</p>,
-368,Elizabeth K.,<p>Strategic Accounts Marketing Director</p>,
-369,Kiel G.,<p>Solution Engineer</p>,
-370,Romain F.,<p>Chief Operating Officer &amp; Chief Revenue Officer </p>,
-371,Wouter K.,<p>Account Executive</p>,
-372,Tara C.,<p>Data Science Technical Writer</p>,
-373,Claudius H.,<p>Platform Program Manager</p>,
-374,Marshall H.,<p>Business Development Specialist</p>,
-375,Thayer A.,<p>Partnerships Director - LATAM</p>,
+name,role
+Chia Y.,Sales Engineer
+Hylke V.,Sales Director Netherlands 
+Marieme D.,Enterprise Customer Success Manager
+Michael G.,Community Manager
+Maïté L.,Technical Recruiter
+Andrew.T,Technical Support Engineer
+Rémi M.,Account Executive
+Michael E.,Partner Solution Architect
+Michaël G.,Sales Engineer Architect
+Mike M.,Account Executive
+Matt C.,Account Executive
+Raj J.,Senior Account Executive
+Daniel S.,VP Legal
+Dara D.,"Instructional Designer, Global Sales Enablement"
+Makoto M.,Data Scientist
+Marshall H.,Business Development Specialist
+Eric C.,Implementation Manager
+Frédéric Ch.,R&D Engineer
+Ned M.,DSS Training Specialist
+Matthieu S.,Data Scientist
+Laura W.P.,Field Marketing Manager Germany
+Pierre M.,Account Executive
+Noel C.,Marketing Associate
+Louis-Philippe K.,VP Data Science
+Magdalena L.,Legal Intern
+Gauthier S.,Data Scientist
+Emilie C.,Talent Brand Ambassador
+Mirko H.,Business Development Specialist
+Ina J.,Marketing Enablement Specialist
+Jean-François G.,Senior Account Executive
+Thayer A.,Partnerships Director - LATAM
+Ruqaiya S.,Sales Engineer
+Max P.,R&D Engineer
+Ashley W.,Field Product Manager
+Mathilde,Office Manager Paris
+Meriem.Z,Customer Success Manager
+Jakub C.,Analytics Team Lead
+Mike B.,VP Sales US West and Central
+Adam J.,Data Scientist
+Paul-Henri H.,Data Scientist
+Mike M.,Account Executive
+Louis B.,Sales Development Representative
+Sophie A.,Business Development Specialist
+Suresh V.,Sales Engineer
+Jennifer R.,VP Strategic Advisory
+Sarah R.,UX Designer
+Gregory H.,SVP Sales EMEA
+Greta N.,Technical Alliance Manager
+Ulysses D.,Customer Success Manager
+Emily J.,Recruiting Coordinator
+Christiaan B.,Business Development Specialist
+Mathieu A.,Partner Certification
+Christopher W.,Senior Product Marketing Manager
+Michaël Ga.,Sales Engineer Architect
+Cooper J.,Business Development Specialist
+Sanae H.,HR Administrator 
+Narendra A.,Data Ops AI Architect
+Jon L.,Business Development Specialist
+Pito N.,Account Executive
+Sean M.,"Sales Engineering Manager, US Central & West"
+Sunny P.,Product Communication Manager
+Clément S.,Co-Founder & CTO
+Marie T.,Talent Acquisition Specialist
+Jessica M.,Content Strategist
+Edward,VP Finance
+Agathe G.,R&D Engineer
+Ina J.,Marketing Enablement Specialist
+Charles B.,Regional Director
+Liam S.,Business Development Specialist
+Mark T.,Lead Product Manager
+John H.,Business Development Specialist
+Sofiane F.,Sales Engineer
+Dimitri L.,Product Manager
+Yannis G.,Data Scientist
+Anna A.,Ecosystem Marketing Manager
+Sean C.,Business Development Specialist
+Dave J.,Account Executive
+Samuel P.,R&D Engineer
+Dana H.,Sales Engineer
+Deborah G.,Senior Account Executive
+Camille Gr.,Learning Experience Manager
+Ned M.,DSS Training Specialist
+Tara C.,Data Science Technical Writer
+Ben M.,Sales Engineering Manager 
+Kristen L,Account Executive
+Gonzalo B.,Implementation Manager
+Jesse B.,Sales Engineer
+Hillorie F.,Director of Alliances
+Carly T.,Partner Manager
+Ludovic P.,R&D Engineer
+Patrick M.,Data Scientist
+Loris M.,Data Analyst
+Terry O.,Corporate Controller
+David D.,R&D Engineer
+Julia Gu.,Partnership Marketing
+Louis P.,R&D Engineer
+Nadim A.,VP Sales
+Carole O.,Chief Marketing Officer
+Thomas R.,Sales Development Representative
+Mope A.,Technical Writer
+Vincent H.,Data Scientist
+Alexandre B.,Customer Success Manager
+Atossa V.,Sales Enablement
+Estelle C.,Junior Marketing Specialist
+Aurélien D.,R&D Engineer
+Sunny G.,Enterprise Customer Success Manager
+Albert A.,Account Executive APAC
+Mong-Tuyet N.,Business Operations Strategist
+Marc H.,R&D Engineer
+Divya T.,Product Manager
+Triveni G.,Data Scientist
+Ben H.,Americas Technical Lead
+Wided B.,Sales Engineer
+Andrei A.,R&D Engineer
+Karim B.,Industry Matter Expert
+Simon S.,Enterprise Customer Success Manager
+Maxime LG.,Customer Success Manager
+Luke T.,Account Executive
+Thomas S.,Research Scientist
+Nicolas P.,Business Development Specialist
+Sean H.,Enterprise Customer Success Manager 
+Kyle M.,Sales Development Representative
+Ludovic B.,Sales Engineer
+Charlotte P.,Office Manager Paris
+Mickaël H.,R&D Engineer
+Andrea S.,Customer Success Manager
+Dominique P.,Implementation Director
+Ndip A.,Sales Development Manager
+Florian,Co-Founder & CEO
+Claude P.,Senior Product Manager
+Rayan H.,Business Development Specialist
+Nicolas S.,R&D Engineer
+Jay M.,Sales Director
+William L.,R&D Engineer
+Katherine C.,HR Manager
+Lynn R.,Business Development Specialist
+Estelle P.,Graphic Design
+Baptiste C.,Demand Generation and Digital Marketing Manager
+Jiunn H.,Senior Channels Manager
+Saul L.,Director of Inside Sales
+Hadrien S.,Enterprise Customer Success Manager
+Nicolas T.,QA Engineer
+Claire M.,Competitive Intelligence Manager
+Delphine P.,HR Administrator
+Samuel R.,R&D Engineer
+Kenji L.,VP Product
+Young S.,Technical Support Engineer
+Kyle A.,Business Development Specialist
+Wouter K.,Account Executive
+Arthur J.,Business Development Specialist
+Christa.S,Sales Engineer 
+Kevin G.,Account Executive
+Maira S.,Marketing Intern
+Graham M.,Account Executive
+Heena K.,Business Development Specialist
+Steve.G,Senior Account Executive
+Lynn H.,Marketing Content Director
+Romain D.,EMEA Marketing Director
+Rayan S.,Talent Acquisition Specialist
+Jean-Bernard J.,Architect
+Alexander V.,Data Analyst
+Cooper J.,Business Development Specialist
+Richard J.,VP Sales APAC
+Judith M.,Talent Coordinator
+Nate.F,Account Executive
+Anne-Sophie R.,Account Executive
+Mat E.,Implementation Manager
+Kimberley C.,Technical Support Engineer
+Aurélien V.,Implementation Manager
+Cameron S.,Enterprise Customer Success Manager
+Bill M.,Account Executive
+Leila N.,Legal Counsel
+Chris E.,Solutions Architect
+Josh H.,Director of Academics
+Michael Go.,Talent Acquisition Lead
+Amanda H.,Partnerships Marketing Manager
+Pauline S.,Sales Engineer
+Robert C.,Revenue Accounting Manager
+Noha B.,Data Scientist
+Saida Y.,Account Receivable Specialist
+Emilie C.,Graphic Designer
+Sara V.,Account Based Marketing Director EMEA
+Florent R.,Account Executive
+Yashas V.,Technical User Community Manager 
+Patrice B.,VP Architecture
+Joachim Z.,R&D Engineer
+Kerri W.,Senior Community Manager
+Kevin R.,QA Engineer 
+Taylor M.,Demand Generation
+Katie G.,Data Scientist
+Patricia F.,Account Executive
+Nicolas O.,Product Manager
+Kurt M.,Chief Customer Officer
+Nancy K.,Content Marketing Junior
+Sophie S.,Senior Director Market Intelligence
+Grant C.,Sales Engineer
+Florian D.,VP Sales DACH
+Adrien La.,R&D Engineer
+Adrien P.,Customer Success Team Lead
+Pia B.,Implementation Manager
+Vincent R.,Territory Account Executive
+Camille G.,Graphic Designer
+Aashish M.,Sales Engineer
+Alexandre D.,Account Executive
+Mayeul R.,Full Stack Engineer
+Virgil C.,Business Development Specialist
+Jean-Baptiste G.,Art Director 
+Julien M.,Sales Engineering Manager
+Conor J.,Customer Success Team Lead
+Daniel H.,Partner Manager DACH
+Gildas F.,EMEA Academics Program Specialist
+Liam S.,Business Development Specialist
+Alex R.,Data Science Content Manager
+Michael D.,Partnerships Manager - East
+Benoit G.,Sales Engineer
+Denise S.,Enterprise Customer Success Manager
+Terry O.,Corporate Controller
+Nadine S.,Sales Engineer
+Léo D.,Data Scientist
+Alex Hub.,Data Scientist
+Sandra B.,Enterprise Customer Success Manager
+Elizabeth K.,Strategic Accounts Marketing Director
+Jeffrey C.,Enterprise Customer Success Manager
+Guillaume H.,Implementation Manager
+Alexandre C.,Data Scientist
+Arnaud P.,VP Engineering
+Greg C.,Sales Engineer
+Celian H.,R&D Engineer
+Christina H.,Sales Engineer / Evangelist
+Mike H.,VP Partnerships
+Guillaume F.,Enterprise Customer Success Manager
+Hursh,Account Executive
+Dan T.,Senior Account Executive
+Joshua C.,Data Scientist
+Frank B.,Alliance and Partnership Director
+Dominik H.,Senior Account Executive
+Omar.S,Data Operations Engineer
+Liev.G,Data Scientist
+Alexandre A.,Research Scientist
+Estelle B.,Marketing Analyst
+Tara C.,Data Science Technical Writer
+Deborah G.,Senior Account Executive
+Francois U.,Enterprise Customer Success Manager
+Alexandre L.,Data Scientist Intern
+Jay N.,Data Scientist
+Nicolas G.,Partner Solutions Architect
+Sandray D.,IT Technician
+Johnny O.,Account Executive
+Lisa B.,User Advocacy EMEA
+Andres S.,Enterprise Customer Success Manager
+Jean-Yves G.,Data Scientist
+Alex G.,Implementation Director
+Pierre P.,Data Scientist
+Richard S.,Sales Engineer
+Michael J.,Canada Country Manager
+Joel B.,Architect
+Bart K.,Sales Engineer
+Clément B.,Software Engineer in Test 
+Jeff C.,Director of Partnerships
+Sean A.,Technical Writer
+Julie O.,Talent Acquisition Lead
+Jerneeka S.,Talent Acquisition Partner
+Fabien B.,Lead Software Engineer
+Blanden C.,Sales Engineer
+Alex K.,Data Ops AI Architect
+Aimee C.,Research Scientist
+Dee Dee T.,Sales Development Representative
+Alexis F.,Senior Sales Engineer
+Anaïs K.,South Europe Marketing Associate
+Christian L.,Sales Development Representative
+Alex Hu,Finance Manager
+Aurélien V.,Implementation Manager
+Léo T.,Data Scientist
+John C.,Account Executive
+Melissa .,Product Manager
+Louis B.,Sales Development Representative
+Kiel G.,Solution Engineer
+Du P.,R&D Engineer
+Steven D.,Account Executive
+Alexandre O.,Customer Success Manager
+Thomas C.,Co-Founder & Head of Technology Alliances
+Julie N.,Financial Analyst
+Jed D.,VP Field Engineering
+Marie V.,Sales Development Representative
+Kyle A.,Business Development Specialist
+Romain F.,Chief Operating Officer & Chief Revenue Officer 
+Antoine Q.,R&D Engineer
+Benoit J.,Sales Development Representative
+Hsu-Liang L.,Account Executive
+Naglis A.,Account Executive
+Greg W.,Partner Solutions Architect
+Hugo S.,Business Developer Data Science
+Régis P.,R&D Engineer
+Frank K.,Jr. Business Systems Administrator
+Christiaan B.,Business Development Specialist
+Mike K.,Enterprise Customer Success Manager
+Alexis S.,Salesforce Administrator
+Arnaud B.,IT Administrator
+Lancelot C.,R&D Engineer
+Benjamin M.,UX Designer
+Malick K.,Data Scientist
+Alivia S.,Director Marketing Machine
+Steve F.,Sales Engineer
+Emilie S.,Research and Innovation Manager
+Astrid D.,QA Engineer
+Gabrielle E.,Lead Generation Manager 
+Beverly D.,Customer Success Team Lead
+Marguerite,Financial Accountant
+Ed Hopper,Senior Account Executive
+Ben B.,Customer Success Manager
+Marcel B.,Sales Engineer
+Manuel.T,Customer Success Team Lead
+Rob R.,VP Marketing
+Vincent T.,Business Developer Intern
+Sonia C.,Mother
+Adrian T.,Marketing Intern
+Brian P.,VP Customer Success
+Rocco S.,Director of Marketing West Coast
+Gus C.,Sales Engineer
+Maxime.B,Sales Development Representative
+Clay K.,Account Executive
+Shelby R.,Sales Development Representative
+Frédéric C.,Director or Marketing
+Julian T.,Business Development Specialist
+Will.N,Data Scientist
+Laura M.,Office Manager New York 
+Andrew F.,Account Executive
+Lee T.,Senior Sales Engineer
+Vincent G.,Customer Success Manager
+Julie H.,Director of User Advocacy
+Clement B.,QA Engineer
+Ryan M.,Account Executive
+Harizo R.,R&D Engineer
+Reginald P.,Financial Systems Manager
+Kasim P.,Growth Scientist
+Sophie D.,VP Strategy
+Christelle M.,Account Executive
+Frédéric T.,R&D Engineer
+Claudius H.,Platform Program Manager
+Brian S.,Customer Success Manager
+Luke C.,Business Development Specialist
+Leandra Z.,Accounting Clerk
+Michael K.,Enterprise Customer Success Manager
+Pierre C.,Partner Manager France
+Chris P.,Business Development Specialist
+Manuel N.,Territory Account Executive
+Farzana K.,Business Development Specialist
+Nicolas O.,Account Based Marketing Junior
+Dan S.,Lead Generation Manager 
+Matthew C.,Account Executive
+Ariane L.,Legal Counsel
+Caroline M.,Sales Development Representative
+Gilles D.,Account Executive
+Mitchell H.,Implementation Manager
+Alexis L.,Legal Counsel 
+Abby Z.,
+Hugo-Camille O.,Customer Team Program Manager
+Alexandre Bo.,R&D Engineer
+Eloise G.,Data Scientist
+Hugo L.,Sales Executive
+Joy S.,Chief People Officer
+Josh B.,Account Executive
+Jagroop G.,Enterprise Customer Success Manager
+Clément B.,Software Engineer
+JB N.,Account Executive
+Julia G.,Account Executive
+Michael Gr.,Community Manager
+Salome S.,Financial Operations Analyst
+Félix S.,Multimedia Designer
+Paul H.,Account Executive
+Jacob W.,Account Executive
+Wideb B.,Sales Engineer
+Frédéric L.,Account Executive
+Larry O.,Sales Engineer
+Maria.K,Implementation Manager
+Vincent S,Sales Engineer
