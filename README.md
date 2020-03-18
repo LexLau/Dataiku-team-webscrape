@@ -2,8 +2,7 @@
 
 > Author: Alex Lau
 
-<img src="./images/team-1920x296.jpg" width="800px">
-![](./images/team-1920x296.jpg)
+<img src="images/team-1920x296.jpg" width="800px">
 
 ## Table of Contents
 - [Problem Statement](#Problem-Statement)
